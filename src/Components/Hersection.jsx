@@ -9,7 +9,7 @@ function Hersection() {
      <h1 className='text-6xl font-bold text-white leading-snug font-bebas tracking-wider'>Order your favourite
       <br /> food here</h1>
      <p className='text-white text-2xl font-semibold mt-[1em]' > Enjoy a diverse menu crafted with fresh ingredients and culinary mastery one delicious bite at a time</p>
-     <button className='px-[2.5rem] py-[0.8rem] bg-white text-lg font-semibold mt-[2em] duration-[0.5s] rounded-full hover:text-white hover:bg-black  '> <Link to=" menu">View Menu</Link></button>
+     <button className='px-[2.5rem] py-[0.8rem] bg-white text-lg font-semibold mt-[2em] duration-[0.5s] rounded-full hover:text-white hover:bg-black  '> <Link to="/menu">View Menu</Link></button>
 
      </div>
 
